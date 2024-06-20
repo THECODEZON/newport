@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Healthcare",
+    "imageSrc": "projects/healthcare15.png",
+    "description": "Health care project with unique functions.",
+    "skills": ["html css js", "Express", "Node"],
+    "demo": "https://thecodezon.github.io/HEALTHCAREstar/",
+    "source": "https://github.com/THECODEZON/HEALTHCAREstar.git"
+  },
+  {
+    "title": "SimmonsayGame",
+    "imageSrc": "projects/simmon.png",
+    "description": "This is simmonsay game ",
+    "skills": ["html", "css", "js"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "currency convertor",
+    "imageSrc": "projects/currency.png",
+    "description": "This is a project which change every currency into indian rupees .",
+    "skills": ["html", "css", "js"],
+    "demo": "https://thecodezon.github.io/CURRENCY/",
+    "source": "https://github.com/THECODEZON/CURRENCY.git"
+  }
+]
